@@ -1,1 +1,13 @@
-# Nada
+# Miguel Motta
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar directorios de entornos virtuales
+venv/
+
+# Ignorar archivos de configuración local
+config.ini
+
+# Ignorar archivos de log
+log/*.log
+
