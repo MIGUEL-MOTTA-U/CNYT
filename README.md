@@ -1,31 +1,33 @@
-# Laboratorio 2
+# CNYT - Ciencias Naturales y Tecnología
 
-## CNYT Trabajo Laboratorio #2 
-## Miguel Angel Motta Urrea
+Bienvenido al repositorio de CNYT (Ciencias Naturales y Tecnología). En este espacio, encontrarás materiales relacionados con el estudio de los números complejos y los fundamentos básicos que dan origen a la física cuántica. Este repositorio está dividido en tres secciones principales:
+
+## Directorios:
+[`Tercio 1`](https://github.com/MIGUEL-MOTTA-U/LAB2/tree/master/Tercio%201)
+[`Tercio 2`](https://github.com/MIGUEL-MOTTA-U/LAB2/tree/master/Tercio%202)
+[`Tercio 3`](https://github.com/MIGUEL-MOTTA-U/LAB2/tree/master/Tercio%203)
 
 
-En este laboratorio se trabajó con la librería [`numpy`](https://numpy.org/doc/) una libreria que nos permite hacer operaciones con números complejos. En este laboratorio trabajamos con las funcionalidades de la librería, desde suma y resta de números complejos, hasta el producto punto de matrices complejas o espacios complejos.
+## 1. Números Complejos
 
-También trabajamos con [`Jupyter Lab`](https://jupyter.org/) un entorno de desarrollo de código abierto con una interfaz web avanzada para la creación de 'notebooks' interactivos. Permite desarrollar y documentar código de manera integrada, facilitando la colaboración y el análisis de datos en un solo entorno.
+En esta sección, encontrarás información sobre los números complejos, incluyendo definiciones, propiedades y operaciones básicas. También podrás acceder a ejercicios prácticos y ejemplos de aplicación de números complejos en diferentes áreas, como la física, la ingeniería y la informática.
 
-## Empezando
+## 2. Física Cuántica
 
-Estas instrucciones te ayudarán a configurar la biblioteca de números complejos en tu máquina local para desarrollo y pruebas.
+Aquí encontrarás contenido relacionado con los fundamentos de la física cuántica, incluyendo conceptos como superposición, entrelazamiento y principio de incertidumbre. Exploraremos las bases teóricas de la mecánica cuántica y su aplicación en diversos campos de la ciencia y la tecnología.
 
-## Instalación de Librería y Unidad de pruebas
+## 3. Trabajos y Talleres
 
-* Para la instalación de Jupyter Lab, podemos seguir las intrucciones del repositorio de Jupyter Lab: [`jupyterlab`](https://github.com/jupyterlab/jupyterlab?tab=readme-ov-file#installation)
-* Para la implementación de la librería numpy la podemos importar, si no está instalada podemos hacerlo con el siguiente comando:
+En esta sección, podrás acceder a los trabajos prácticos y talleres realizados durante el curso de CNYT. Los materiales incluyen enunciados de problemas, soluciones propuestas, ejercicios de programación en Python relacionados con números complejos y física cuántica, y otros recursos útiles para el aprendizaje y la práctica de los conceptos discutidos en clase.
 
+Si tienes alguna pregunta, sugerencia o comentario, no dudes en abrir un issue en este repositorio o ponerte en contacto con el profesor. ¡Esperamos que este recurso te sea útil en tu aprendizaje de ciencias naturales y tecnología!
+
+Recomiendo si vas a trabajar localmente con estos archivos descargar las librerias de:
+* [Numpy](https://numpy.org/)
+* [MathPlotlib](https://matplotlib.org/)
+
+Para instalarlos puedes usar los siguientes comandos:
 ```
 pip install numpy
+pip install matplotlib
 ``` 
-
-## Ejecución de Pruebas
-Para la resolución de este laboratorio podemos acceder al documento que contiene las respuestas que se trabajaron en clase: 
-[`Complex_Vector_Matrix_Operations_with_NumpyPy`](https://github.com/MIGUEL-MOTTA-U/LAB2/blob/master/Complex_Vector_Matrix_Operations_with_NumPy.ipynb)
-
-También podemos ver las mismas respuestas con su justificación y procedimiento por medio de este archivo: 
-[`SOLO RESPUESTAS`](https://github.com/MIGUEL-MOTTA-U/LAB2/blob/master/SOLO%20RESPUESTAS.ipynb)
-
-#### - MIGUEL ANGEL MOTTA URREA
